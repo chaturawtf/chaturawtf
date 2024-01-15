@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @chaturawtf
-- 👀 I’m interested in Graphic Designing and Programming
-- 🌱 I’m currently learning Visual Communication Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? You can send me an email to www.chaturawtf@gmail.com 
+# Hello, I'm @chaturawtf
 
-<!---
-chaturawtf/chaturawtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 I’m a Graphic Designer passionate about bringing creative ideas to life. 
+🌟 Open to collaborating in diverse design areas, including branding, UI/UX, digital art, and more.
+📚 Currently enhancing my skills in Visual Communication Design and Python for Data Visualization.
+🤝 Looking to connect? Reach out to me at [www.chaturawtf@gmail.com]
